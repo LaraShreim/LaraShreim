@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her
 ## My GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=LaraShreim&theme=dark&hide_border=true)](https://git.io/streak-stats)
-## Languages I Use
+## Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraShreim&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
