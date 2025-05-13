@@ -1,4 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraShreim&layout=compact&theme=tokyonight)
+<h2 align="center">📊 Most Used Languages</h2>
+<p align="center">
+  <img src="./language-usage.png" alt="Language Usage Chart" width="350">
+</p>
 
 
 
